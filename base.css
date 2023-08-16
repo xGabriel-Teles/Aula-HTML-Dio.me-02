@@ -47,3 +47,16 @@ body {
 .footer a {
     margin: 0 10px;
 }
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+form button, form label{
+    width: 100px;
+}
+
+form input {
+    width: 400px;
+}
