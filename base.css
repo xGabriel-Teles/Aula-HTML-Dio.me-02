@@ -38,8 +38,9 @@ body {
     background-color: gray;
     color: #fff;
     display: flex;
-    flex-direction: column;
+    justify-content: space-between;
     min-height: 150px;
+    padding: 0 2rem;
     text-align: center;
 }
 
