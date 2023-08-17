@@ -60,3 +60,17 @@ form button, form label{
 form input {
     width: 400px;
 }
+
+table, table td, table th {
+    border: 1px solid #000;
+}
+
+table td, table th {
+    padding: 10px;
+    text-align: center;
+}
+
+thead {
+    background-color: #777;
+    color: #fff;
+}
